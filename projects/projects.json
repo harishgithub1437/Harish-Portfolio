@@ -1,9 +1,9 @@
 [
   {
-    "name": "Gym Managment system",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "Gymmanagment",
-    "category": "mern",
+    "name": "Gym Management System",
+    "desc": "Responsive gym website built with HTML, CSS, JS.",
+    "image": "gym",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/Gym-management-system/",
       "code": "https://github.com/harishgithub1437/Gym-management-system"
@@ -11,53 +11,52 @@
   },
   {
     "name": "Astrology Website",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "desc": "Astrology themed responsive template.",
     "image": "astro",
-    "category": "mern",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/Astrologer-website-theme/",
       "code": "https://github.com/harishgithub1437/Astrologer-website-theme"
     }
   },
   {
-    "name": "Healthcare Website ",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Healthcare Website",
+    "desc": "Healthcare service themed responsive template.",
     "image": "health",
-    "category": "mern",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/Healthcare-website/",
       "code": "https://github.com/harishgithub1437/Healthcare-website"
     }
   },
   {
-    "name": "e Commerce Website",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "E-commerce Website",
+    "desc": "Furniture e-commerce website template.",
     "image": "ecomm",
-    "category": "mern",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/ADDINO-home-furniture-E-commerce-/",
       "code": "https://github.com/harishgithub1437/ADDINO-home-furniture-E-commerce-"
     }
   },
   {
-    "name": "online Food Order Website",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "name": "Online Food Ordering",
+    "desc": "Food ordering website template.",
     "image": "food",
-    "category": "lamp",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/FRESHEAT-online-food-services/",
       "code": "https://github.com/harishgithub1437/FRESHEAT-online-food-services"
     }
   },
   {
-    "name": "Real estate website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "Real Estate Website",
+    "desc": "Real estate agency website template.",
     "image": "estate",
-    "category": "basicweb",
+    "category": "web",
     "links": {
       "view": "https://harishgithub1437.github.io/REALTOR-Real-estate-website/",
       "code": "https://github.com/harishgithub1437/REALTOR-Real-estate-website"
     }
   }
-  
 ]
